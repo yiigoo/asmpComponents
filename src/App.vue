@@ -6,17 +6,12 @@
 </template>
 
 <script>
-	
 	export default {
 		name: 'app',
-		components : {
-			
-		} ,
+		components: {},
 		data() {
-			return {
-			}
+			return {}
 		},
-		created() {
-		},
+		created() {},
 	}
 </script>
